@@ -1,0 +1,42 @@
+/* Add all your styles here */
+*{
+  margin:0;
+  padding:0;
+}
+p i{
+  color:lavender;
+}
+h2{
+  text-align:center;
+  font-family:Times new Roman;
+}
+.box{
+  width:80vw;
+  min-width:450px;
+  margin:auto;
+  color:white;
+  padding:3vw;
+  background-color:#003;
+  border-radius:0 20px 0 20px;
+  outline:1.5px outset orange;
+  box-shadow:3px 3px 12px black;
+}
+img{
+  height:20vw;
+  width:20vw;
+}
+.n{
+  font-family:Times new Roman;
+}
+.d{
+  line-height:1.5;
+}
+.box2{
+  width:78vw;
+  min-width:400px;
+  margin:2vw auto;
+  color:#003;
+  clear:right;
+  border-radius:10px;
+  background-color:#8cf;
+}
